@@ -1,2 +1,2 @@
 # paradise-cars-scraper
-Web scraper downloading data from Burnout Wiki
+Web scraper that download car data from Burnout Wiki
